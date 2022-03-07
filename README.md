@@ -29,7 +29,7 @@
 ## Access locally
 
 ```bash
- - `php artisan serve`
- - http://localhost:8000
- - Register account in http://localhost:8000/register
+ -  php artisan serve
+ -  http://localhost:8000
+ -  Register account in http://localhost:8000/register
 ```
